@@ -1,0 +1,21 @@
+gungun
+Amount : 50
+Amout left : 2
+gungun
+Amount : 100
+Amout left : 2
+aman
+Amount : 100
+Amout left : 4
+aman
+Amount : 500
+Amout left : 1
+shruti
+Amount : 50
+Amout left : 50
+shruti
+Amount : 100
+Amout left : 1
+kamal
+Amount : 100
+Amout left : 1
